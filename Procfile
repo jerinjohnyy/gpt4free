@@ -1,1 +1,1 @@
-web: python3 -m streamlit run streamlit_app.py
+worker: python3 -m streamlit run streamlit_app.py
